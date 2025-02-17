@@ -1,0 +1,21 @@
+order_id,Product,Category,Quantity,Price,Total_amount,Date
+1001,Samsung S5200,Samsung,1,88743,168,21.12.2024
+1002,Honor U8860,Honor,3,98393,171,25.05.2024
+1003,verykool s401,verykool,3,99144,106,14.07.2024
+1004,Sagem my501X,Sagem,6,71432,207,16.07.2024
+1005,alcatel OT-916,alcatel,5,87833,279,20.06.2024
+1006,alcatel Pop 2 (4),alcatel,6,30863,35,17.05.2024
+1007,Lenovo S5 Pro GT,Lenovo,1,32931,276,12.08.2024
+1008,Huawei Ascend G700,Huawei,4,82612,27,24.07.2024
+1009,T-Mobile Sidekick 4G,T-Mobile,9,41335,273,03.11.2024
+1010,Lava A68,Lava,3,59975,107,06.02.2025
+1011,Motorola One 5G,Motorola,6,85020,158,27.07.2024
+1012,alcatel Pop 2 (5),alcatel,9,96168,77,30.01.2025
+1013,Casio G'zOne Ravine 2,Casio,3,67475,79,08.11.2024
+1014,Nokia 6150,Nokia,2,37105,44,11.12.2024
+1015,Samsung C3330 Champ 2,Samsung,4,79653,212,19.07.2024
+1016,Tecno Spark 6 Go,Tecno,8,44192,299,29.04.2024
+1017,Sony Xperia Z Ultra,Sony,8,53273,49,08.02.2025
+1018,alcatel OT-C635,alcatel,1,53744,33,05.06.2024
+1019,O2 XDA Guide,O2,7,71914,96,08.07.2024
+1020,Posh Titan Max HD E600,Posh,4,24389,178,28.03.2024
