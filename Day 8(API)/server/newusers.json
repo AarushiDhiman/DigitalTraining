@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ishit",
+      "email": "ishit@gmail.com",
+      "address": "UK"
+    },
+    {
+      "id": "2",
+      "name": "gargi",
+      "email": "gargi@gmail.com",
+      "address": "US"
+    },
+    {
+      "id": "1740054379514",
+      "name": "Pari",
+      "email": "pari@gmail.com",
+      "address": "US"
+    }
+  ]
+}
